@@ -1,0 +1,22 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Dataset and experiment artifacts
+datasets/
+results/
+
+# Archives
+*.zip
+
+# Local environment and editor settings
+.env
+.vscode/
+
+# OS files
+Thumbs.db
+.DS_Store
